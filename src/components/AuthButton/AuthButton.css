@@ -1,0 +1,42 @@
+.auth-button-unlock {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    padding: 0.5rem;
+    border-radius: 50%;
+    background: green;
+    border: none;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    transition: background 0.2s ease, transform 0.1s ease;
+}
+
+.auth-button-lock {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    padding: 0.5rem;
+    border-radius: 50%;
+    background: red;
+    border: none;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    transition: background 0.2s ease, transform 0.1s ease;
+}
+
+.auth-button:hover {
+    background: #6c41ec;
+    color: #f3f3f3;
+    transform: scale(1.05);
+}
+
+.auth-button:active {
+    transform: scale(0.95);
+    background: #6c41ec;
+}
+
+.auth-button svg {
+    color: #f3f3f3;   
+    width: 24px;
+    height: 24px;
+}

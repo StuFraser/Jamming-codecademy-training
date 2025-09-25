@@ -1,0 +1,62 @@
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+h2{
+    color:#010c3f;
+    box-sizing: border-box;
+    padding-bottom: 12px;
+}
+
+.modal {
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    max-width: 400px;
+    text-align: center;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+
+    border: 6px solid white;
+    border-radius: 30px;
+    outline: 6px solid #010c3f;
+    outline-offset: -12px;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-size: 12px;
+    padding-top: 14px;
+}
+
+.modal-actions {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.AuthButton {
+    cursor: pointer;
+    width: 8.11rem;
+    padding: .77rem 0;
+    border-radius: 54px;
+    background-color: #010c3f;
+    text-align: center;
+    font-size: .833rem;
+    transition: background-color .25s;
+    border: 0px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.Spotify-Link{
+    color: #010c3f;
+    padding-top: 40px;
+}

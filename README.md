@@ -8,4 +8,4 @@ Added additional features to improve usability and playlist management.
 
 Reworked parts of the codebase for cleaner structure and maintainability.
 
-This project showcases my hands-on experience with React, REST APIs, and OAuth authentication flows, and demonstrates how I adapt and extend learning projects into more robust applications.
+This project showcases my hands-on experience with React, CSS, REST APIs, and OAuth authentication flows, and demonstrates how I adapt and extend learning projects into more robust applications.

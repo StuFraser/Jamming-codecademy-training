@@ -1,12 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my take on the React Jamming project from CodeCademy’s Full-Stack React course. While the original project provided a solid foundation, I’ve extended it with several enhancements:
 
-Currently, two official plugins are available:
+Implemented PKCE authentication for more secure Spotify access.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Added additional features to improve usability and playlist management.
 
-## Expanding the ESLint configuration
+Reworked parts of the codebase for cleaner structure and maintainability.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project showcases my hands-on experience with React, REST APIs, and OAuth authentication flows, and demonstrates how I adapt and extend learning projects into more robust applications.

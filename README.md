@@ -1,11 +1,11 @@
-# React + Vite
+This is my enhanced version of the React Jamming project from CodeCademy’s Full-Stack React course. While the original project provided a solid foundation, I’ve extended it with several improvements:
 
-This is my take on the React Jamming project from CodeCademy’s Full-Stack React course. While the original project provided a solid foundation, I’ve extended it with several enhancements:
+Works with Spotify to search tracks, create playlists, and manage your music.
 
-Implemented PKCE authentication for more secure Spotify access.
+Implemented PKCE authentication for secure Spotify access.
 
-Added additional features to improve usability and playlist management.
+Added extra features to improve usability and playlist management.
 
 Reworked parts of the codebase for cleaner structure and maintainability.
 
-This project showcases my hands-on experience with React, CSS, REST APIs, and OAuth authentication flows, and demonstrates how I adapt and extend learning projects into more robust applications.
+This project highlights my hands-on experience with React, css, REST APIs, and OAuth flows, showing how I can take a learning project and turn it into a fully functional, polished web app.

@@ -1,5 +1,5 @@
 const SpotifyAuth = {
-  client_id: 'adb9b3a993d0410081327f4a11d475d9',
+  client_id: process.env.SPOTIFY_API_KEY,
   redirect_uri: 'http://127.0.0.1:5173/callback',
   scopes: 'playlist-modify-public playlist-modify-private playlist-read-private',
 
